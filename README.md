@@ -22,23 +22,13 @@
 
 <br />
 
-- Currently living in **Brazil**
-- I'm always trying to learn something about **tech and design**
-- I'm learning **English and French**
-- My hobbies are **playing soccer and watching movies**
-- Feel free to **contact me anytime**
-
-<br />
-<br />
-
 <div align="center">
-
-**＊ Technologies and Tools ＊**
+  
 
 ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=html5&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Lang-CSS3-informational?style=flat&logo=css3&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=111111)
-![](https://img.shields.io/badge/Lang-React-informational?style=flat&logo=react&logoColor=white&color=111111)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Lang-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Lang-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=111111)
 
@@ -47,5 +37,26 @@
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/UI-Figma-informational?style=flat&logo=figma&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Game_Engine-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=111111)
+  
+</div>
+
+<br />
+<br />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lajck&count_private=true&show_icons=true" alt="Lajack" />
+
+- Currently living in **Brazil**
+- I'm always trying to learn something about **tech** and **design**
+- I'm learning **English** and **French**
+- My hobbies are **playing soccer** and **watching movies**
+- Feel free to **contact me** anytime
+
+<div align="center">
+
+<br />
+<br />
+<br />
+
+**Give a star ⭐ if you liked it!**
 
 </div>
