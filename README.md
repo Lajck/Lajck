@@ -45,11 +45,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lajck&count_private=true&show_icons=true&title_color=B68C2F&icon_color=B68C2F&bg_color=FFFFFF" alt="Lajack" />
 
+**About me**
+
 - Front-end Rookie
 - Always trying to grasp something new
 - Learning English and French
 - I like playing soccer and watching movies
-- Feel free to contact me anytime
 
 <div align="center">
 
