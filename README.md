@@ -43,7 +43,7 @@
 <br />
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lajck&count_private=true&show_icons=true" alt="Lajack" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lajck&count_private=true&show_icons=true&title_color=B68C2F&icon_color=B68C2F&bg_color=FFFFFF" alt="Lajack" />
 
 - Currently living in **Brazil**
 - I'm always trying to learn something about **tech** and **design**
@@ -57,6 +57,8 @@
 <br />
 <br />
 
-**Give a star ⭐ if you liked it!**
-
+**Give a star if you liked it!**
+  
+⭐
+  
 </div>
