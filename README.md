@@ -1,4 +1,4 @@
-### Hey 👋, I'm Lajack.
+### Hey 👋, how are you?
 
 <a href="https://github.com/Lajck/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-![Lajack](https://github.com/Lajck/Lajck/blob/master/banner.png?raw=true)
+![Lajack](https://github.com/Lajck/Lajck/blob/main/banner.png?raw=true)
 
 <br />
 
@@ -29,9 +29,6 @@
 - Feel free to **contact me anytime**
 
 <br />
-
----
-
 <br />
 
 <div align="center">
