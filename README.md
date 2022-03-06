@@ -25,12 +25,12 @@
 <div align="center">
   
 
-![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=html5&logoColor=white&color=111111)
-![](https://img.shields.io/badge/Lang-CSS3-informational?style=flat&logo=css3&logoColor=white&color=111111)
-![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=111111)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=111111)
-![](https://img.shields.io/badge/Lang-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=111111)
-![](https://img.shields.io/badge/Lang-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=111111)
+![](https://img.shields.io/badge/_-HTML5-informational?style=flat&logo=html5&logoColor=white&color=111111)
+![](https://img.shields.io/badge/_-CSS3-informational?style=flat&logo=css3&logoColor=white&color=111111)
+![](https://img.shields.io/badge/_-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=111111)
+![](https://img.shields.io/badge/_-React-informational?style=flat&logo=react&logoColor=white&color=111111)
+![](https://img.shields.io/badge/_-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=111111)
+![](https://img.shields.io/badge/_-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=111111)
 
 ![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=111111)
