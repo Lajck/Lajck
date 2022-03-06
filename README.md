@@ -47,7 +47,7 @@
 
 **About me**
 
-- Front-end Rookie
+- Front-end Developer
 - Always trying to grasp something new
 - Learning English and French
 - I like playing soccer and watching movies
