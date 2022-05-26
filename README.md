@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/_-React-informational?style=flat&logo=react&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/_-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/_-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=111111)
+![](https://img.shields.io/badge/_-Lua-informational?style=flat&logo=lua&logoColor=white&color=111111)
 
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=archlinux&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=111111)
