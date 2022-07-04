@@ -18,7 +18,11 @@
 <br />
 <br />
 
-![Lajack](https://github.com/Lajck/Lajck/blob/main/banner.png?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lajck/Lajck/main/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lajck/Lajck/main/banner-light.png">
+  <img alt="Lajack - Learning about technology, design and other 21st century wizardry." src="https://raw.githubusercontent.com/Lajck/Lajck/main/banner-light.png">
+</picture>
 
 <br />
 
@@ -37,7 +41,6 @@
 ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/UI-Figma-informational?style=flat&logo=figma&logoColor=white&color=111111)
-![](https://img.shields.io/badge/Game_Engine-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=111111)
   
 </div>
 
