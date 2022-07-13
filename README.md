@@ -2,7 +2,7 @@
 
 ### Hey 👋, how are you?
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=333333&height=40&lines=I'm+Lajack!;Learning+about+programming%2C;design+%26+other+21st+century+wizardry)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=333333&height=40&lines=I'm+Lajack!;Learning+about+programming%2C;design+%26+other+21st+century+wizardry.)](https://git.io/typing-svg)
 
 <div align="left">
   
