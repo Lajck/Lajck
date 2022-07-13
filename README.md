@@ -39,7 +39,7 @@
 </details>
 
 <details open>
-  <summary><b>Full list of Langs & Tools</b></summary>
+  <summary><b>More Langs & Tools</b></summary>
   <br>
 
   ![](https://img.shields.io/badge/_-Git-informational?style=flat&logo=git&logoColor=white&color=111111)
