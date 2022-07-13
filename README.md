@@ -33,7 +33,7 @@
   - `Front-end Developer`
   - `Always trying to grasp something new`
   - `Learning English and French`
-  - `I like playing soccer and watching movies`
+  - `Love Retro Games`
 
   <br />
 </details>
